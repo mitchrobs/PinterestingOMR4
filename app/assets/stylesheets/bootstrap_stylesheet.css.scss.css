@@ -1,0 +1,48 @@
+$navbar-default-bg: #da4f49;
+$navbar-default-link-color: #ecf0f1;
+$navbar-height: 75px;
+
+
+
+@import 'bootstrap';
+
+.navbar-brand {
+     font-weight: bold;
+     
+}
+
+
+.jumbotron {
+
+	background: #202D44;
+	opacity: .9;
+
+}
+
+.home {
+
+background: url(http://wallpaperscraft.com/image/glare_background_blur_dark_63553_2560x1600.jpg?orig=1) no-repeat center center fixed; 
+}
+
+a {
+
+	color: #da4f49
+	
+}
+
+.navbar {
+
+
+}
+
+.email_cta {
+
+	text-align: center;
+
+}
+
+footer {
+
+	color: #2f363e;
+	height: 150px;
+}
